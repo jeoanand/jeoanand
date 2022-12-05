@@ -3,7 +3,7 @@ Frontend designer and developer heavily influenced by UI Design, interactions, a
 
 
 Currently working on Lead UI/UX Engineer at Calibraint Technologies (https://calibraint.com)
-[Website] (https://www.jeoanand.com/)
-[Linkedin] (https://www.linkedin.com/in/jeoanand/)
-[Dribbble] (https://www.dribbble.com/jeoanand/)
-[Behance] (https://www.behance.net/jeoanand/)
+- [Portfolio] (https://www.jeoanand.com/)
+- [Linkedin] (https://www.linkedin.com/in/jeoanand/)
+- [Dribbble] (https://www.dribbble.com/jeoanand/)
+- [Behance] (https://www.behance.net/jeoanand/)
